@@ -11,3 +11,7 @@ width: 100px;
     padding: 9px 25px;
     border: none;
 }
+.live:hover{
+    transform: scale(1.3) skew(0deg);
+    transition: transform 0.5s ease-in;
+}
